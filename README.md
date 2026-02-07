@@ -60,13 +60,13 @@ Where:
 
 ### Values Used
 
-- Roll Number (r): 102313061  
-- a_r = 2.0  
+- Roll Number (r): 102317161
+- a_r = 1.0  
 - b_r = 0.6  
 
 Final Transformation:
 
-z = x + 2.0 sin(0.6x)
+z = x + 1.0 sin(0.6x)
 
 ---
 
@@ -124,7 +124,7 @@ The generated distribution closely follows the real distribution, with minor dev
 
 ---
 
-## 11. Conclusion
+## 9. Conclusion
 
 This project demonstrates that Generative Adversarial Networks can effectively learn unknown probability density functions using samples alone, without assuming any analytical form.
 
