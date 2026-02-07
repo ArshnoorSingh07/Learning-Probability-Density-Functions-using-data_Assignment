@@ -99,16 +99,15 @@ After training:
 
 ## 7. Graphs and Visual Results
 
-
 ### PDF Comparison Plot
 
 Example:
-![PDF Comparison](graph.png)
+![PDF Comparison](./results/result_graph.png)
 
 
 ---
 
-## 8. Observations
+## 8. Result Analysis
 
 ### Mode Coverage
 The GAN captures the dominant mode of the transformed distribution and covers the main support of the data.
@@ -118,6 +117,8 @@ Training remains stable due to normalization and proper mini-batch training. No 
 
 ### Quality of Generated Distribution
 The generated distribution closely follows the real distribution, with minor deviations in low-density tail regions.
+
+Overall, the model is able to learn the underlying probability density function of the transformed NO₂ variable without assuming any analytical form of the distribution.
 
 ---
 
