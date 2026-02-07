@@ -23,10 +23,7 @@ The dataset used is the India Air Quality Dataset, and NO₂ concentration is se
 
 ## 3. Methodology
 
-The overall workflow of the project is as follows:
-
-Data Collection → Data Preprocessing → Transformation →  
-GAN Training → Sample Generation → PDF Estimation → Result Analysis
+#### Data Collection → Data Preprocessing → Transformation →  GAN Training → Sample Generation → PDF Estimation → Result Analysis
 
 ### Step-wise Explanation
 
